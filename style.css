@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(130, 190, 241);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1{
+    font-family: 'PK Like Guston', sans-serif;
+    color:rgb(5, 84, 153);
+}
+
+th{
+    background-color: rgb(96, 130, 151);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+table{
+    margin-left: 300px;
+    background-color: lightblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+img{
+    margin: 9px 9px 9px 9px;
+}
+.title1{       
+    font-family: 'PK Like Guston', sans-serif;
+     font-size: 100px;  
+     color:rgb(17, 2, 69);    
+     text-align: center;                                    
+}
